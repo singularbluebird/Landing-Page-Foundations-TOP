@@ -5,6 +5,13 @@
 
 .header {
     flex-direction: row;
+    justify-content: space-between;
+    margin-inline: 10px;
+}
+
+.links {
+    flex-direction: row;
+    gap: 10px;
 }
 
 .subheader {
