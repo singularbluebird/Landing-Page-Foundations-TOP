@@ -1,4 +1,26 @@
 .header {
     display: flex;
-    flex-direction: row;
 }
+
+.subheader {
+    display: flex;
+}
+
+.information {
+    display: flex;
+    flex-direction: column;
+}
+
+.info-bit {
+    display: flex;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+}
+
+.action {
+    display: flex;
+}
+
