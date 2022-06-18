@@ -33,6 +33,11 @@
 
 .quote {
     flex-direction: column;
+    background-color: #e5e7eb;
+    color: #1f2937;
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    font-weight: lighter;
 }
 
 .action {
