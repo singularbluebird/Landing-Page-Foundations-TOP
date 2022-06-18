@@ -15,6 +15,7 @@
 }
 
 .subheader {
+    flex-wrap: wrap;
 }
 
 .information {
