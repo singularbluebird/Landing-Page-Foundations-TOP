@@ -42,3 +42,10 @@ button {
 .copyright {
     background-color: #1f2937;
 }
+
+.awesome {
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
+    font-family: 'Roboto', sans-serif;
+}
