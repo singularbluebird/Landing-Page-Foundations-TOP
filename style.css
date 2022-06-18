@@ -7,6 +7,7 @@
     flex-direction: row;
     justify-content: space-between;
     margin-inline: 10px;
+    background-color: #1f2937;
 }
 
 .links {
@@ -35,4 +36,8 @@
 button {
     display: block;
     width: fit-content;
+}
+
+.copyright {
+    background-color: #1f2937;
 }
