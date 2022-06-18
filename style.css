@@ -49,3 +49,9 @@ button {
     color: #f9faf8;
     font-family: 'Roboto', sans-serif;
 }
+
+.secondary, .subtext {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: #e5e7eb;
+}
