@@ -50,7 +50,7 @@ button {
     font-family: 'Roboto', sans-serif;
 }
 
-.secondary, .subtext {
+.secondary, .subtext, .links {
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     color: #e5e7eb;
