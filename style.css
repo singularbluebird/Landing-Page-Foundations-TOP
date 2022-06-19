@@ -103,6 +103,10 @@ button {
 }
 
 .bit {
-    width: 400px;
-    height: 400px;
+    width: 200px;
+    height: 200px;
+}
+
+.info-header {
+    text-align: center;
 }
