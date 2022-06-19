@@ -46,6 +46,8 @@
 button {
     display: block;
     width: fit-content;
+    background-color: #3882f6;
+    color: #e5e7eb;
 }
 
 .copyright {
