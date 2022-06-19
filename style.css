@@ -83,6 +83,7 @@ button {
 
 .action {
     border: 2px solid #f9faf8;
+    height: fit-content;
     
 }
 
@@ -128,6 +129,7 @@ button {
     margin: 100px 200px;
     border-radius: 8px;
     padding: 25px 100px;
+    flex-direction: row;
     flex-wrap: wrap;
 }
 
