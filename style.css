@@ -62,7 +62,7 @@ button {
     font-family: 'Roboto', sans-serif;
 }
 
-.secondary, .subtext, .links, .placeholder {
+.secondary, .subtext, .links, .placeholder, .copyright {
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     color: #e5e7eb;
