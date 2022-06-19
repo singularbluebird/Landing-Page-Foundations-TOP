@@ -122,3 +122,9 @@ button {
 .subtext {
     text-align: center;
 }
+
+.action-section {
+    margin: 100px 200px;
+    border-radius: 8px;
+    padding: 25px 100px;
+}
