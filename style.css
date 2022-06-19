@@ -43,6 +43,7 @@
     font-family: 'Roboto', sans-serif;
     font-size: 36px;
     font-weight: lighter;
+    padding: 100px 200px;
 }
 
 .action-section, .action {
@@ -62,6 +63,7 @@ button {
 .copyright {
     background-color: #1f2937;
     text-align: center;
+    padding: 24px;
 }
 
 .awesome {
