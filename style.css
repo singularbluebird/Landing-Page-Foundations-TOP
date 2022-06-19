@@ -14,13 +14,13 @@ body {
 
 .header {
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     background-color: #1f2937;
     font-family: 'Roboto', sans-serif;
     font-size: 24px;
     color: #f9faf8;
     font-weight: bold;
-    padding-top: 20px;
+    padding: 20px 200px;
 }
 
 .links {
