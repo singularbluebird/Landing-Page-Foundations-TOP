@@ -106,8 +106,16 @@ button {
 .bit {
     width: 200px;
     height: 200px;
+    align-items: center;
 }
 
 .info-header {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+
+.subtext {
     text-align: center;
 }
