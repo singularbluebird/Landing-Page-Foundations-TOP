@@ -21,9 +21,9 @@
 }
 
 .subheader {
-    flex-wrap: wrap;
     background-color: #1f2937;
     flex-direction: row;
+    padding: 100px 200px;
 }
 
 .information {
