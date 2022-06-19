@@ -60,7 +60,7 @@ button {
     border: none;
     border-radius: 6px;
     padding: 6px 18px;
-    margin-top: 10px;
+    
 }
 
 .copyright {
@@ -145,6 +145,3 @@ button {
     align-items: center;
 }
 
-.secondary {
-    height: 40px;
-}
