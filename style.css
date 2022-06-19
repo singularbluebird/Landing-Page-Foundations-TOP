@@ -26,7 +26,7 @@
 }
 
 .information {
-    flex-direction: column;
+    flex-wrap: wrap;
 }
 
 .info-bit {
