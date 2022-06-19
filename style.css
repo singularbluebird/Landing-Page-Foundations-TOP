@@ -93,3 +93,10 @@ button {
     font-size: 24px;
     font-weight: bold;
 }
+
+.roundsquare {
+    width: 100px;
+    height: 100px;
+    border: 2px solid #3882f6;
+    border-radius: 8px;
+}
