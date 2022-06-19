@@ -84,6 +84,8 @@ button {
     background-color: #9b9b9b;
     justify-content: center;
     align-items: center;
+    height: 200px;
+    width: 800px;
 }
 
 .action {
