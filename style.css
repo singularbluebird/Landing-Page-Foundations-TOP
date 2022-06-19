@@ -50,8 +50,9 @@ button {
     width: fit-content;
     background-color: #3882f6;
     color: #f9faf8;
-    border: #f9faf8;
-    border-radius: 12px;
+    border: none;
+    border-radius: 6px;
+    padding: 6px 18px;
 }
 
 .copyright {
@@ -73,4 +74,8 @@ button {
 
 .placeholder {
     background-color: #9b9b9b;
+}
+
+.action {
+    border: 2px solid #f9faf8;
 }
