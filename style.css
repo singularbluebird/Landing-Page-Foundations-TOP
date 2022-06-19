@@ -8,6 +8,10 @@ title {
     display: none;
 }
 
+body {
+    margin: 0px;
+}
+
 .header {
     flex-direction: row;
     justify-content: space-around;
