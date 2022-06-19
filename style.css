@@ -26,6 +26,7 @@
 }
 
 .information {
+    margin: 32px;
 }
 
 .info-bit {
@@ -114,6 +115,7 @@ button {
     font-size: 36px;
     font-weight: bolder;
     color: #1f2937;
+    margin-bottom: 29px;
 }
 
 .subtext {
