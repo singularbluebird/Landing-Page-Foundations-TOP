@@ -4,6 +4,10 @@
     font-family: 'Roboto', sans-serif;
 }
 
+title {
+    display: none;
+}
+
 .header {
     flex-direction: row;
     justify-content: space-around;
