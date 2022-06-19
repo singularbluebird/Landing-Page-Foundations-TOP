@@ -6,8 +6,7 @@
 
 .header {
     flex-direction: row;
-    justify-content: space-between;
-    margin-inline: 10px;
+    justify-content: space-around;
     background-color: #1f2937;
     font-family: 'Roboto', sans-serif;
     font-size: 24px;
@@ -24,6 +23,7 @@
     background-color: #1f2937;
     flex-direction: row;
     padding: 100px 200px;
+    justify-content: space-between;
 }
 
 .information {
