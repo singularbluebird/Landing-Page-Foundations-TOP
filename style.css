@@ -79,3 +79,10 @@ button {
 .action {
     border: 2px solid #f9faf8;
 }
+
+.call {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: bold;
+}
