@@ -26,10 +26,11 @@
 }
 
 .information {
-    flex-wrap: wrap;
 }
 
 .info-bit {
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 .quote {
